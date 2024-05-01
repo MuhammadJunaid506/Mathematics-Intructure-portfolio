@@ -19,12 +19,12 @@ const CallToAction = () => {
                   There are many variations of passages of Lorem Ipsum but the
                   majority have suffered in some form.
                 </p>
-                <Link
+                {/* <Link
                   href="/"
                   className="inline-block rounded-md border border-transparent bg-secondary px-7 py-3 text-base font-medium text-white transition hover:bg-[#0BB489]"
                 >
                   Start using Play
-                </Link>
+                </Link> */}
               </div>
             </div>
           </div>

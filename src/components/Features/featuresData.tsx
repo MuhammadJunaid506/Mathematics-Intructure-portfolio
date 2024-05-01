@@ -17,8 +17,8 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "Free and Open-Source",
-    paragraph: "Lorem Ipsum is simply dummy text of the printing and industry.",
+    title: "K-8 Certified",
+    paragraph: "Although my original plan was to teach early primary, a Fourth Grade student teaching position in the Chicago Public School System changed my mind by allowing me to experience older students' curiosity and desire to learn. Since then, I have gain experience teaching Second, Third and Fourth Grades.",
     btn: "Learn More",
     btnLink: "/#",
   },
@@ -38,8 +38,8 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "Modern Design",
-    paragraph: "Lorem Ipsum is simply dummy text of the printing and industry.",
+    title: "Language Arts",
+    paragraph: "Development of reading and writing skills is critical for every student. I hold an endorsement in Language Arts, along with certification to teach Italian (strengthened by a semester in Rome and a year teaching in a Milan High School following my undergraduate education).",
     btn: "Learn More",
     btnLink: "/#",
   },
@@ -91,8 +91,8 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "SaaS Starter Kit",
-    paragraph: "Lorem Ipsum is simply dummy text of the printing and industry.",
+    title: "ESOL",
+    paragraph: "A Masters-level concentration in English to Speakers of Other Languages (ESOL), along with my own experience learning another language, have armed me with proven teaching techniques, professional resources and knowledge of the special requirements needed to teach in a diverse classroom environment.",
     btn: "Learn More",
     btnLink: "/#",
   },
@@ -124,8 +124,8 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "All Essential Integrations",
-    paragraph: "Lorem Ipsum is simply dummy text of the printing and industry.",
+    title: "ESOL",
+    paragraph: "A Masters-level concentration in English to Speakers of Other Languages (ESOL), along with my own experience learning another language, have armed me with proven teaching techniques, professional resources and knowledge of the special requirements needed to teach in a diverse classroom environment.",
     btn: "Learn More",
     btnLink: "/#",
   },
