@@ -293,12 +293,12 @@ const Footer = () => {
                 <p className="text-base text-gray-7">
                   Designed and Developed by{" "}
                   <a
-                    href="https://tailgrids.com"
+                    href="https://mariana-tech-solutions.vercel.app/"
                     rel="nofollow noopner noreferrer"
                     target="_blank"
                     className="text-gray-1 hover:underline"
                   >
-                    TailGrids and Next.js Templates
+                    Mariana Tech Solutions
                   </a>
                 </p>
               </div>
